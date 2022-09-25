@@ -11,7 +11,7 @@
         android:id="@+id/viewName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Name: "
+        android:text="Name:aa "
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
